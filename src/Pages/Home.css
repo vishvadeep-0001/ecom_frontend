@@ -1,0 +1,10 @@
+.home{
+    height: 100vh;
+    margin-top: 20px;
+}
+.home-banner-text{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-110%, -50%);
+}

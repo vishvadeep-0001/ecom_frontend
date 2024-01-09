@@ -1,0 +1,14 @@
+.btn{
+    color: black;
+}
+.input-group {
+    width: 30%;
+    margin-bottom: 0px;
+}
+.user-btn .dropdown-toggle::after{
+    content: none;
+}
+.navbar-nav {
+    width: 20%;
+    justify-content: space-between;
+}
